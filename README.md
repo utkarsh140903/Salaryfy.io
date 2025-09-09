@@ -1,10 +1,10 @@
 # 💰 Salaryfy.io - Financial Awareness & Salary Management Platform
 
 <div align="center">
- 
+
   <p><em>Empowering financial decisions through clarity and transparency</em></p>
   
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://your-deployment-url.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://salaryfy-io-phi.vercel.app/)
   [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind-4.x-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
