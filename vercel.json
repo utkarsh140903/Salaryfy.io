@@ -1,7 +1,9 @@
 {
-  "functions": {
-    "build/server/index.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "buildCommand": "npm run build",
+  "outputDirectory": "build/client",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/build/server/index.js" }
+  ]
 }
